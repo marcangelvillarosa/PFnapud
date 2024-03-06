@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zt8ovXsL9Pr6cwRyu7XxdfT4oAywUwemDMKqeIZHUYwBQw4WVtoulUIikJceJmws0kdTG1OKfjiW4D/wtY8ooA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ITLAB2-PC19\\Desktop\\PF-main\\DownloadManager\\DownloadManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ITLAB2-PC19\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ITLAB2-PC19\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ITLAB2-PC19\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ITLAB2-PC19\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
